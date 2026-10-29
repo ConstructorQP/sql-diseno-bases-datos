@@ -31,4 +31,4 @@ mysql -u root -p < RESTAURANTE_1.1.sql
 
 ## Relacionado
 
-Las consultas sobre estas bases de datos (`SELECT`, `JOIN`, subconsultas…) están en [CONSULTAS-1](https://github.com/ConstructorQP/CONSULTAS-1).
+Las consultas sobre estas bases de datos (`SELECT`, `JOIN`, subconsultas…) están en [sql-consultas](https://github.com/ConstructorQP/sql-consultas).
